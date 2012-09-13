@@ -12,6 +12,7 @@
 struct derbile{
     char x[100];
     int num;
+    //plug  kak
 };
 
 int main(int argc, const char * argv[])

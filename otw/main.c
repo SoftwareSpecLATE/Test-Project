@@ -22,6 +22,7 @@ int main(int argc, const char * argv[])
     scanf("%d",op);
     
     printf("Hello, World!\n");
+    printf("plug kak!\n");
     return 0;
 }
 

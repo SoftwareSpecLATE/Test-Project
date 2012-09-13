@@ -7,11 +7,19 @@
 //
 
 #include <stdio.h>
+#include <string.h>
+
+struct derbile{
+    char x[100];
+    int num;
+};
 
 int main(int argc, const char * argv[])
 {
-
-    // insert code here...
+    //struct derbile d;
+    int op;
+    scanf("%d",op);
+    
     printf("Hello, World!\n");
     return 0;
 }
